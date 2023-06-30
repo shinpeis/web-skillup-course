@@ -1,0 +1,12 @@
+@use "sass:math";
+// 文字フォントの種類
+$base-font: "Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", "メイリオ", sans-serif;
+.arial {
+  font-family: Arial, Helvetica, sans-serif;
+} 
+
+// 文字の太さ
+$regular: 300;
+$normal: 400;
+$medium: 500;
+$bold: 700;
